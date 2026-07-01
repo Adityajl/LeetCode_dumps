@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityajl/LeetCode_dumps/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityajl/LeetCode_dumps/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityajl/LeetCode_dumps/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Adityajl/LeetCode_dumps/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityajl/LeetCode_dumps/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Adityajl/LeetCode_dumps/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -81,4 +82,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityajl/LeetCode_dumps/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Adityajl/LeetCode_dumps/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Adityajl/LeetCode_dumps/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Adityajl/LeetCode_dumps/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Adityajl/LeetCode_dumps/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Adityajl/LeetCode_dumps/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
