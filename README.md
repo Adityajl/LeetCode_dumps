@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityajl/LeetCode_dumps/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Adityajl/LeetCode_dumps/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adityajl/LeetCode_dumps/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityajl/LeetCode_dumps/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityajl/LeetCode_dumps/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adityajl/LeetCode_dumps/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adityajl/LeetCode_dumps/tree/master/1301-number-of-paths-with-max-score) |
 | [1563-stone-game-v](https://github.com/Adityajl/LeetCode_dumps/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adityajl/LeetCode_dumps/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityajl/LeetCode_dumps/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Adityajl/LeetCode_dumps/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityajl/LeetCode_dumps/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Adityajl/LeetCode_dumps/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityajl/LeetCode_dumps/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityajl/LeetCode_dumps/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Adityajl/LeetCode_dumps/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityajl/LeetCode_dumps/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityajl/LeetCode_dumps/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Adityajl/LeetCode_dumps/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Adityajl/LeetCode_dumps/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
@@ -321,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adityajl/LeetCode_dumps/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
