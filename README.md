@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Adityajl/LeetCode_dumps/tree/master/0125-valid-palindrome) |
+| [0940-distinct-subsequences-ii](https://github.com/Adityajl/LeetCode_dumps/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityajl/LeetCode_dumps/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityajl/LeetCode_dumps/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityajl/LeetCode_dumps/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Adityajl/LeetCode_dumps/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Adityajl/LeetCode_dumps/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adityajl/LeetCode_dumps/tree/master/1301-number-of-paths-with-max-score) |
 | [1563-stone-game-v](https://github.com/Adityajl/LeetCode_dumps/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
