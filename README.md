@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adityajl/LeetCode_dumps/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityajl/LeetCode_dumps/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Adityajl/LeetCode_dumps/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Adityajl/LeetCode_dumps/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Adityajl/LeetCode_dumps/tree/master/1872-stone-game-viii) |
@@ -369,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adityajl/LeetCode_dumps/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Adityajl/LeetCode_dumps/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
