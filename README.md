@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Adityajl/LeetCode_dumps/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Adityajl/LeetCode_dumps/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityajl/LeetCode_dumps/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityajl/LeetCode_dumps/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adityajl/LeetCode_dumps/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityajl/LeetCode_dumps/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adityajl/LeetCode_dumps/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
