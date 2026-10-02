@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Adityajl/LeetCode_dumps/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Adityajl/LeetCode_dumps/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityajl/LeetCode_dumps/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityajl/LeetCode_dumps/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Adityajl/LeetCode_dumps/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adityajl/LeetCode_dumps/tree/master/0877-stone-game) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adityajl/LeetCode_dumps/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityajl/LeetCode_dumps/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
